@@ -1,2 +1,3 @@
 init the first file of clone
 clone1
+clone2
